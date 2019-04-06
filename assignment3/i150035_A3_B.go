@@ -1,5 +1,5 @@
 //I150035_Assignment3_Section(A)
-package Assignment_3
+package assignment3
 
 import (
 	"strings"
