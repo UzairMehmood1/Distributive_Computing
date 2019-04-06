@@ -1,5 +1,5 @@
 //I150035_Assignment3_Section(A)
-package assignment3
+package go_lang_introduction
 
 import (
 	"strings"
